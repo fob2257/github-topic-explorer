@@ -1,8 +1,8 @@
 import React from 'react';
 
 import { Card, CardDiv, TopicName, TopicID } from './styles';
-import RelatedTopics from '../RelatedTopics';
-import StargazerCount from '../StargazerCount';
+import RelatedTopics from '../RelatedTopics/RelatedTopics';
+import StargazerCount from '../StargazerCount/StargazerCount';
 
 const Topic = ({ topic }) => (
   <Card>

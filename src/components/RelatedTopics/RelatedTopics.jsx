@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 import { RelatedTopicsDiv, Heading } from './styles';
-import RelatedTopic from '../RelatedTopic';
+import RelatedTopic from '../RelatedTopic/RelatedTopic';
 
 const RelatedTopics = ({ topics }) => {
   const [relatedTopicId, setRelatedTopicId] = useState(null);

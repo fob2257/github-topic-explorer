@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { TopicDiv, TopicName, RelatedTopicsDiv, RelatedTopicName } from './styles';
-import StargazerCount from '../StargazerCount';
+import StargazerCount from '../StargazerCount/StargazerCount';
 
 const RelatedTopic = ({ topic, expanded, toggleRelatedTopic }) => {
   const handleTopicClick = () => toggleRelatedTopic(topic);

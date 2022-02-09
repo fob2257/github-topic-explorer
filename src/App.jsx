@@ -1,7 +1,7 @@
 import React from 'react';
 
 import ApolloProvider from './graphql';
-import AppComponent from './components/App';
+import AppComponent from './components/App/App';
 
 function App() {
   return (
