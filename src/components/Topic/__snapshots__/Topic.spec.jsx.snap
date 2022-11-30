@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Topic /> should match snapshot 1`] = `
+<div
+  className="sc-bdvvtL eDSkTd"
+>
+  <div
+    className="sc-gsDKAQ kLyXFC"
+  >
+    <div>
+      <h2
+        className="sc-dkPtRN bwmxL"
+      >
+        angular
+      </h2>
+      <h3
+        className="sc-hKwDye cmAQBw"
+      >
+        MDU6VG9waWNhbmd1bGFy
+      </h3>
+    </div>
+    <div
+      className="sc-jrQzAO gsHAeA"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="StarIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+        />
+      </svg>
+      <span
+        className="sc-kDTinF cicfqr"
+      >
+        39188
+      </span>
+    </div>
+  </div>
+  <div
+    className="sc-eCImPb iZszzz"
+  >
+    <h2
+      className="sc-jRQBWg cAiQqT"
+    >
+      Related topics: 
+      1
+    </h2>
+    <div
+      className="sc-gKclnd jndObI"
+      onClick={[Function]}
+    >
+      <h3
+        className="sc-iCfMLu cuhnuA"
+      >
+        vue
+      </h3>
+      <div
+        className="sc-jrQzAO gsHAeA"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="StarIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+        <span
+          className="sc-kDTinF cicfqr"
+        >
+          45009
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RelatedTopics /> should match snapshot 1`] = `
+<div
+  className="sc-bdvvtL bIXkDV"
+>
+  <h2
+    className="sc-gsDKAQ jJCLbz"
+  >
+    Related topics: 
+    2
+  </h2>
+  <div
+    className="sc-dkPtRN caPTMa"
+    onClick={[Function]}
+  >
+    <h3
+      className="sc-hKwDye hoxHUg"
+    >
+      react-native
+    </h3>
+    <div
+      className="sc-gKclnd fVLuFs"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="StarIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+        />
+      </svg>
+      <span
+        className="sc-iCfMLu llrDsR"
+      >
+        22240
+      </span>
+    </div>
+  </div>
+  <div
+    className="sc-dkPtRN caPTMa"
+    onClick={[Function]}
+  >
+    <h3
+      className="sc-hKwDye hoxHUg"
+    >
+      angular
+    </h3>
+    <div
+      className="sc-gKclnd fVLuFs"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="StarIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+        />
+      </svg>
+      <span
+        className="sc-iCfMLu llrDsR"
+      >
+        39188
+      </span>
+    </div>
+  </div>
+</div>
+`;
